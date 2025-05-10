@@ -3,12 +3,11 @@ let mynum = 5;
 // mynum.toUpperCase()
 greetings.toLowerCase()
 console.log(greetings);
-export{}
 
 // number
 let userId2: number = 223355;
-let userId = 334455;
-// userId = "Abhishek"
+let userId = "Abhishek"
+// userId = 334455;
 
 
 // boolean
@@ -22,4 +21,7 @@ function getHero() {
     return true
 }
 
-hero = getHero()
+// hero = getHero()
+
+
+export{}
